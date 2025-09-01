@@ -1,0 +1,21 @@
+public class FixDebug_One {
+   /* This program displays a greeting */
+   public static void main(String args []) {
+      System.out.println("Hello World!");
+   }
+}
+
+/*
+List down the spotted bugs below:
+
+e.g.
+- // wrong syntax for access modifier "publlic" instead of "public"
+
+Bugs:
+1. ( Wrong syntax class name "FixDebug One" should be "FixDebug_One" )
+2. ( Wrong syntax access method "main" instead of "Main" )
+3. ( Wrong syntax for access parameter "String args" instead of "String args []" )
+4. ( Wrong syntax access for display "Systm" should be "System" )
+5. ( Wrong syntax ";" semicolon after println statement )
+6. ( Wrong syntax missing close bracket "}" for the class )
+*/
